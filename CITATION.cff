@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Si usas este código, cítalo con los metadatos de este archivo."
+type: software
+title: "RRuta Latam: simulación de datos y análisis de potencia"
+abstract: >-
+  Código en R para simular datos de una encuesta anónima en línea sobre
+  conocimiento, intención de uso y barreras percibidas frente a los Reportes
+  Registrados en Latinoamérica, calcular la potencia estadística por Monte Carlo
+  de las tres pruebas confirmatorias (C1 a C3, corrección de Holm) y probar el
+  flujo de análisis completo antes de la recolección de datos.
+authors:
+  - family-names: "Leongómez"
+    given-names: "Juan David"
+    affiliation: "Universidad El Bosque"
+    orcid: "https://orcid.org/0000-0002-0092-6298"
+  # TODO: agregar aquí a las estudiantes del equipo
+license: MIT
+version: 1.0.0
+date-released: "2026-11-11"
+keywords:
+  - registered reports
+  - open science
+  - metascience
+  - power analysis
+  - Latin America
+doi: "10.5281/zenodo.24069486"
+repository-code: "https://github.com/JDLeongomez/rruta-latam-power"
