@@ -1,4 +1,4 @@
-# RRuta Latam: simulación de datos y análisis de potencia
+# RRuta Latam: Simulación de datos y análisis de potencia
 
 Código del proyecto **RRuta Latam** (semillero MetaCiencia, Universidad El Bosque): diagnóstico del conocimiento, la intención de uso y las barreras percibidas frente a los Reportes Registrados (RR) en Latinoamérica, mediante una encuesta anónima en línea.
 
