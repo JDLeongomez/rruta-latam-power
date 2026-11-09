@@ -1,5 +1,5 @@
 {
-  "title": "RRuta Latam: simulación de datos y análisis de potencia",
+  "title": "RRuta Latam: Simulación de datos y análisis de potencia",
   "upload_type": "software",
   "description": "<p>Código en R para simular datos de una encuesta anónima en línea sobre conocimiento, intención de uso y barreras percibidas frente a los Reportes Registrados en Latinoamérica, calcular la potencia estadística por Monte Carlo de las tres pruebas confirmatorias (C1 a C3, con corrección de Holm) y probar el flujo de análisis completo antes de recolectar los datos.</p><p>Proyecto del semillero MetaCiencia, Universidad El Bosque (Bogotá, Colombia).</p>",
   "creators": [
