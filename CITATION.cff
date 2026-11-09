@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Si usas este código, cítalo con los metadatos de este archivo."
 type: software
-title: "RRuta Latam: simulación de datos y análisis de potencia"
+title: "RRuta Latam: Simulación de datos y análisis de potencia"
 abstract: >-
   Código en R para simular datos de una encuesta anónima en línea sobre
   conocimiento, intención de uso y barreras percibidas frente a los Reportes
