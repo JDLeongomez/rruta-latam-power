@@ -5,6 +5,41 @@
   "creators": [
     {
       "name": "Leongómez, Juan David",
+      "affiliation": "Universidad El Bosque",
+      "orcid": "0000-0002-0092-6298"
+    },
+    {
+      "name": "Cardona-Gómez, Gloria del Pilar",
+      "affiliation": "Universidad El Bosque",
+      "orcid": "0000-0003-3559-6169"
+    },
+    {
+      "name": "Cepeda, Valentina",
+      "affiliation": "Universidad El Bosque",
+      "orcid": "0009-0007-2620-6743"
+    },
+    {
+      "name": "Lemus-Morales, Andrés",
+      "affiliation": "Universidad El Bosque",
+      "orcid": "0009-0000-6508-2914"
+    },
+    {
+      "name": "Puentes, Marcela",
+      "affiliation": "Universidad El Bosque",
+      "orcid": "0009-0008-4111-2590"
+    },
+    {
+      "name": "Valencia-Guevara, Luna",
+      "affiliation": "Universidad El Bosque",
+      "orcid": "0009-0000-4090-4686"
+    },
+    {
+      "name": "Urrego-Alvarado, Daniela",
+      "affiliation": "Universidad El Bosque",
+      "orcid": "0009-0007-5797-5844"
+    },
+    {
+      "name": "Castillo, Samuel Felipe",
       "affiliation": "Universidad El Bosque"
     }
   ],

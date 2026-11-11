@@ -138,7 +138,8 @@ contaminar <- function(d, p_dup = 0.02, p_bot = 0.03) {
 # ---- 2. Depuración -----------------------------------------------------------
 # Reglas pre-registradas (aplicadas a la base cruda)
 depurar <- function(d, mediana_piloto = 7) {
-  demo <- c("country","area","educ","lang","has_research","years","n_art","nivel_p9","lider_p11","n_roles")
+  demo <- c("country","area","educ","lang","has_research","years","n_art","nivel_p9",
+            "lider_p11","n_roles")
   items <- c(sprintf("ca%02d", 1:N_CA_ITEMS), sprintf("rr%02d", 1:N_RR_ITEMS),
              "fam_ca","fam_rr","intent_rr","intent_ca","n_barr")
   n0 <- nrow(d)
