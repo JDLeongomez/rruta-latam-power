@@ -70,12 +70,16 @@ La primera ejecución calibra los efectos verdaderos para que coincidan con los 
 
 ## Estado
 
-El script se actualizó al esquema de puntajes de 10 y 8 ítems y a la numeración final del cuestionario, y aún no se ha ejecutado tras ese cambio. Los valores de la Tabla 1 del protocolo deben regenerarse con esta versión.
+Versión 1.0.0. El script usa el esquema de puntajes de 10 y 8 ítems y la numeración final del cuestionario. Los archivos de `results/` se generaron con esta versión, con la ejecución completa (1000 repeticiones por tamaño de muestra), y corresponden a la Tabla 1 y la Figura 1 del protocolo.
 
 ## Cómo citar
 
-Ver `CITATION.cff`. Tras la primera publicación en Zenodo, el DOI se agrega a ese archivo y al protocolo.
+Si usas o adaptas este código, por favor cítalo:
+
+> Leongómez, J. D., Cardona-Gómez, G. P., Cepeda, V., Lemus-Morales, A., Puentes, M., Valencia-Guevara, L., Urrego-Alvarado, D., & Castillo Morales, S. F. (2026). *RRuta Latam: Simulación de datos y análisis de potencia* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24069486
+
+Los metadatos completos están en `CITATION.cff`.
 
 ## Licencia
 
-MIT. Ver `LICENSE`.
+MIT. Ver `LICENSE`. Puedes usar, modificar y redistribuir el código siempre que conserves el aviso de copyright y la licencia.

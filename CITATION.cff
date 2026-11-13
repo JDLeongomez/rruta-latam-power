@@ -37,9 +37,10 @@ authors:
     given-names: "Daniela"
     affiliation: "Universidad El Bosque"
     orcid: "https://orcid.org/0009-0007-5797-5844"
-  - family-names: "Castillo"
+  - family-names: "Castillo Morales"
     given-names: "Samuel Felipe"
     affiliation: "Universidad El Bosque"
+    orcid: "https://orcid.org/0009-0009-1222-1437"
 license: MIT
 version: 1.0.0
 date-released: "2026-11-11"

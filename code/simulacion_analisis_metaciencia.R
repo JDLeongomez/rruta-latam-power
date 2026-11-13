@@ -3,10 +3,11 @@
 # en Latinoamérica. Simulación de superpoblación, potencia por Monte Carlo
 # y prueba de todos los análisis propuestos.
 #
-# ESTADO: actualizado al esquema de puntajes A (10 ítems de ciencia abierta y 8 de
-# RR; numeración P del cuestionario final). Aún no se ha ejecutado tras ese cambio.
-# Antes de usarlo: correr con RRUTA_NSIM=3 para detectar errores (ver README).
+# Versión 1.0.0: esquema de puntajes A (10 ítems de ciencia abierta y 8 de RR;
+# numeración P del cuestionario final). Los archivos de results/ se generaron
+# con esta versión (doi:10.5281/zenodo.24069486).
 # Ejecutar desde la raíz del repositorio: Rscript code/simulacion_analisis_metaciencia.R
+# Prueba rápida (3 repeticiones): RRUTA_NSIM=3 Rscript code/simulacion_analisis_metaciencia.R
 #
 # Estructura
 #   0. Paquetes y parámetros
@@ -14,7 +15,7 @@
 #   2. Depuración (duplicados, respuestas apresuradas, inconsistencias)
 #   3. Puntajes e índice de experiencia
 #   4. Análisis confirmatorios (C1, C2, C3) con corrección de Holm
-#   5. Potencia por Monte Carlo (n = 500, 800, 1500)
+#   5. Potencia por Monte Carlo (n = 800, 1200, 1500, 2000)
 #   6. Muestra aleatoria de la superpoblación y todos los análisis
 #      (descriptivos, exploratorios, DIF, TRI, sensibilidad)
 # =============================================================================
